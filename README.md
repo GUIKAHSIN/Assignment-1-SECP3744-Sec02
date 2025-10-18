@@ -1,1 +1,2 @@
-# SECP3744-Sec02
+# Assignment 1
+
