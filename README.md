@@ -26,20 +26,14 @@
 
 ---
 
-## ⚙️ Tools & Resources Used (yj)
+## ⚙️ Tools & Resources Used
 | Tool | Purpose |
 |------|----------|
-| 💬 **ChatGPT** | For topic explanation, structure creation, summarization, and proofreading |
-| 🔍 **Google Scholar** | For literature search and source verification |
-| 📄 **Microsoft Word / GitHub README** | For writing and documentation |
-| ✅ **Grammarly** | For grammar and style checking |
-
----
-
-## 🧩 Notes on AI Tool Usage (yj)
-- AI tools were used responsibly for **idea generation, outline planning, summarization, and proofreading only**.  
-- All AI-generated content was **verified with academic sources**.  
-- Prompts, keywords, and full references are **recorded transparently above**.  
+| 🤖 **Gemini** | For brainstorming discussions and expanding on complex ideas and structuring content |
+| 💬 **ChatGPT** | For generating ideas, refining explanations and proofreading |
+| 🔍 **ResearchGate / GoogleScholar** | For finding, reviewing, and referencing scholarly articles |
+| 📄 **Microsoft Word / GitHub README** | For writing and documentation work |
+| 🔄 **Turnitin** | For checking originality and ensuring proper citation |
 
 ---
 
